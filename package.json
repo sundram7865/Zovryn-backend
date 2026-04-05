@@ -14,7 +14,13 @@
     "db:seed": "ts-node-dev --transpile-only prisma/seed.ts",
     "lint": "tsc --noEmit"
   },
-  "keywords": ["finance", "backend", "express", "typescript", "prisma"],
+  "keywords": [
+    "finance",
+    "backend",
+    "express",
+    "typescript",
+    "prisma"
+  ],
   "author": "Sundram Mishra",
   "license": "ISC",
   "dependencies": {
